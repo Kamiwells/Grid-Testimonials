@@ -40,7 +40,6 @@ body{
     flex-direction: row;
     background: var(--Purple-500);
     max-width: 30rem;
-    padding: rem;
     color: var(--Purple-50);
 }
 .bio{
